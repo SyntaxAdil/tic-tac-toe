@@ -67,14 +67,10 @@ project/
 
 ## **Preview**
 
-
-
-```
-![App Screenshot Preview](assests/images/preview.png)
-![App Screenshot Game](assests/images/game.png)
-![App Screenshot Winner Popup](assests/images/winner-popup.png)
-![App Screenshot Draw Popup](assests/images/draw-popup.png)
-```
+![Preview](assets/images/preview.png)
+![Game](assets/images/game.png)
+![Winner Popup](assets/images/winner-popup.png)
+![Draw Popup](assets/images/draw-popup.png)
 
 ---
 

@@ -10,15 +10,15 @@ const modalMssg = document.getElementById("modal-mssg");
 const line = document.getElementById("line");
 // array for image path
 const modalSrc = {
-  tieImg: "./assests/images/tie.png",
-  winImg: "./assests/images/winner.png",
+  tieImg: "./assets/images/tie.png",
+  winImg: "./assets/images/winner.png",
   winMssg: "Congratulations",
   tieMssg: "Let's give a try again!",
 };
 
 // Audio
-const tieSound = new Audio("./assests/sound/aww.mp3");
-const winSound = new Audio("./assests/sound/win.mp3");
+const tieSound = new Audio("./assets/sound/aww.mp3");
+const winSound = new Audio("./assets/sound/win.mp3");
 
 // initial turn
 
