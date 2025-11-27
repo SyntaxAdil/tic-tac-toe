@@ -70,10 +70,10 @@ project/
 
 
 ```
-![App Screenshot Preview](./assests/images/preview.png)
-![App Screenshot Game](./assests/images/game.png)
-![App Screenshot Winner Popup](./assests/images/winner-popup.png)
-![App Screenshot Draw Popup](./assests/images/draw-popup.png)
+![App Screenshot Preview](assests/images/preview.png)
+![App Screenshot Game](assests/images/game.png)
+![App Screenshot Winner Popup](assests/images/winner-popup.png)
+![App Screenshot Draw Popup](assests/images/draw-popup.png)
 ```
 
 ---
