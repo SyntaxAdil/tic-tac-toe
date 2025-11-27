@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tic tac Toe || Abdur Rahman Adil</title>
+    <!-- font awesome cdn -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+      integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <!-- css -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+     <section class="ttt_container" >
+      <div class="container">
+        <h2 class="title">Tic Tac Toe</h2>
+
+        <div class="ttt_btns">
+          <button class="btn"></button>
+          <button class="btn"></button>
+          <button class="btn"></button>
+          <button class="btn"></button>
+          <button class="btn"></button>
+          <button class="btn"></button>
+          <button class="btn"></button>
+          <button class="btn"></button>
+          <button class="btn"></button>
+        </div>
+        <span id="line"></span>
+
+        <button class="resetBtn" type="button" role="button">Reset</button>
+      </div>
+    </section> 
+
+  
+    <!-- modal -->
+     <section class="modal">
+        <div class="modal-container">
+            <img src="assests/images/tie.png"  style="width: 100%;" id="modal-image" >
+            <h3 id="modal-mssg"></h3>
+            <button id="modal-btn" class="resetBtn">Play Again</button>
+
+            <span id="dlt-modal">x</span>
+        </div>
+     </section>
+
+
+     <!-- copy rigth -->
+        <p id="copy">&copy;2025 <a href="https://github.com/SyntaxAdil" target="_blank">Abdur Rahman Adil</a>. All rights reserved.</a></p>
+    <!-- js link -->
+    <script src="script.js"></script>
+  </body>
+</html>
