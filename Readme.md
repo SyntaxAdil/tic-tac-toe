@@ -24,7 +24,7 @@ project/
 │── index.html
 │── style.css
 │── script.js
-│── assets/
+│── assests/
 │     ├── images/
 │     │      ├── winner.png
 │     │      └── tie.png
